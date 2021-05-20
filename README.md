@@ -1,0 +1,1 @@
+# netcore-teamcity-cicd
